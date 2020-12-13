@@ -3,3 +3,6 @@
 
 # words.txt is too large to upload 
 library-fa20/data/words.txt
+
+# not necessary to upload these files
+hw2/inputFiles/
